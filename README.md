@@ -11,7 +11,7 @@ Demo for using [react-big-calendar](https://github.com/jquense/react-big-calenda
 - `date-fns` as a localizer
 - TypeScript
 - React 17 hooks
-- [Vite]() for running and building
+- [Vite](https://vitejs.dev/) for running and building
 - ESLint and Prettier
 
 ## Setup
